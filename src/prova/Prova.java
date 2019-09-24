@@ -7,6 +7,7 @@ public class Prova{
         data.mes = 15;
         data.ano = 1996;
         data.imprimir();
+        
     }
     
 }

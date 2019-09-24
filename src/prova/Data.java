@@ -6,7 +6,7 @@ public class Data{
     int ano;
 
     public void imprimir(){
-        System.out.println("Data:"+dia +mes +ano);
+        System.out.println("Data: "+dia +mes +ano);
     }
     
 }
