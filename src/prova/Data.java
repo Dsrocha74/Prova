@@ -1,12 +1,12 @@
 package prova;
 
-public class Data {
+public class Data{
     int dia;
     int mes;
     int ano;
 
     public void imprimir(){
-        System.out.println(""+dia + mes + ano);
+        System.out.println("Data:"+dia +mes +ano);
     }
     
 }
